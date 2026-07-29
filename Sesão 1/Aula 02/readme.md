@@ -22,8 +22,10 @@ Ola Mundo!
 Ola Mundo!
 ```
 
-### Podemos Adicionar Varios dados para serem imprimidos de uma vez só , numeros, numeros decimais, expreções boleanas e textos/strings.
+### Podemos Adicionar Varios dados para serem imprimidos de uma vez só , numeros, expreções boleanas e textos/strings.
 
 ```JavaScript
 console.log("Olá", ' fulano ', " você tem ", 18, " anos ? ");
 ```
+
+### No JavaScript Numeros inteiros(10) e numeros decimais(5.7) possuem o mesmo tipo de dados o number. 
