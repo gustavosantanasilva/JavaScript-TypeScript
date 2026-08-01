@@ -1,6 +1,6 @@
 # AULA 04
 
-### Nesta aula aprendemos oque é um comentario e como usalos no JavaScript
+### Nesta aula aprendemos oque é um comentario e como usalos no JavaScript ✅
 
 ## Oque é um comentario ? (é uma parte do nosso codigo que não é execultada e é usada para documentar e deixar a leitura do codigo mais facil e dinamica e  geralmente explica detalhes de um codigo como ele funciona para tornar a leitura e a manutenção mais rapida e simples!)
 
