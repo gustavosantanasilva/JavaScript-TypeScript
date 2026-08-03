@@ -17,3 +17,5 @@
 | Exercicios   | Conteudo                         | Link                                          |
 | ------------ | -------------------------------- | --------------------------------------------- |
 | Exercicio 01 | Praticando o comando console.log | [Acessar](/Sesão%201/Exercicios/01/readme.md) |
+
+### [Estudos pelo MDN](./MDN-Estudos/readme.md)
