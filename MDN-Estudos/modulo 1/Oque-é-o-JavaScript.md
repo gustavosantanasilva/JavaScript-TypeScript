@@ -53,3 +53,29 @@ function atualizarNome(){
   paragrafo.textContent = "Jogador 1: "+ nome;
 }
 ```
+
+O JavaScript pode fazer muito mais que isso -- iremos explorar com detalhes.
+
+## Oque ele pode realmente fazer ?
+
+O núcleo da linguagem JavaScript consiste em alguns benefícios comuns da programação que permite a você fazer coisas como :
+
+- Armazenar conteúdo / informações em variaveis : no exemplo anterior armazenamos o nome do jogador na variavel paragrafo.
+
+- Operações com pedaços de textos / string podendo juntar strings com variaveis realizando o pocesso de concatenação.
+
+- Execultar codigo em resposta a determinados eventos e condições no codigo como no exemplo temos uma função que execulta um determinado bloco de codigo quando um determinado evento acontece no exemplo do codigo anterior o evento e quando o usuario clicar e a função pede um novo nome para o jogador e muda o seu nome.
+
+- E muito mais !
+
+O que ainda é ainda mais empolgante é a funcionalidade construida no topo do núcleo da linguagem JavaScript. As APIs (Application Programming Interfaces - Interface de Programação de Aplicações) proveem a você superpoderes extras para usar no seu código JavaScript.
+
+APIs são um conjunto pronto de blocos de construção de código que permitem que um desenvolvedor implemente programas que seriam difíceis ou impossíveis de implementar. Eles fazem o mesmo para a programação que os kits de móveis prontos para a construção da casa - e mais facil pegar a madeira e parafsos para montar do que fazer tudo do zero , pegar madeira cortar , modelala etc .
+
+As APIs geralmente se dividem em duas categorias.
+
+![Categorias de APIs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_is_JavaScript/browser.png)
+
+As APIs de navegadores já vem implementadas no navegador, e são capazes de expor dados do ambiente do computador, ou fazer coisas complexas e úteis. por exemplo:
+
+- A API DOM(Document Object Model) permite a você manipular HTML e CSS, criando , removendo e mudando HTML, aplicando dinamicamente novos estilos para a sua pagina, etc. Toda vez que você vê uma janela pop-up aparecer em uma página, ou vê algum novo conteúdo sendo exibido (como nós vimos na nossa simples demonstração), isso é o DOM em ação.
